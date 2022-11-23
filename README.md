@@ -1,3 +1,3 @@
 # qtft-if-parallel-training
-Code for QTFT and IF Parallel Training
-Writing some codes
+**For QTFT and IF Parallel Programming Training**
+
